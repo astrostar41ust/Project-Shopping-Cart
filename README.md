@@ -18,7 +18,7 @@ Browse products, add them to your cart, and enjoy a seamless shopping experience
 ## 🚀 Live Demo
 
 > **Try it now:**  
-> [Live]([https://your-cloudflare-pages-url.pages.dev](https://project-shopping-cart-f3e.pages.dev/))  
+> [Live](https://project-shopping-cart-f3e.pages.dev/)
 
 
 ---
